@@ -1,4 +1,4 @@
-#Retail Sales Analysis
+##Retail Sales Analysis
 
 ## BUSINESS QUESTIONS
 1. Which product category generates the most revenue?
